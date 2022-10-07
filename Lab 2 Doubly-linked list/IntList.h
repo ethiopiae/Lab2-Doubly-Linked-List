@@ -26,7 +26,6 @@ struct IntNode {
 };
 
 class IntList {
-
 public:
     IntList() { 
         dummyHead = new IntNode(0);
